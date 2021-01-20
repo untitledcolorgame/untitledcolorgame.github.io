@@ -1,0 +1,32 @@
+Untitled color game rules:
+        Overview:
+The goal of the game is for your team to have the most points at the end of a five minute round. At the start of the game, you will not know which player is your teammate. An important part of the game is figuring out who your teammate is, because your team will gain points for finding out each other’s identities before other teams do the same. Once the game begins, you can reveal your identity to other players and trade point chips for information, all in real time. But don’t give away too much, because one player is the assassin who, if they can figure out which teams at least three players belong to, will be the sole winner of the game.
+
+        Setup:
+At the start of the game, each player gets their secret identity. Most players’ identities will be a team, represented by a colour and symbol. Each team has two members.  One player will not have a team, and will instead be the lone assassin. Each player receives five point chips in addition to their identity. After all players have received their secret identity, a five minute timer is started, and the game begins!
+
+        Gameplay:
+The game is played in real time, meaning that there are no turns, and all actions happen  at once. You may talk freely about all information to anyone. If you wish, you may use the game’s private message function to talk with a player. At any time you may make a deal with any player by clicking on them and selecting “make a deal”. Items that can be traded in a deal are: your identity, the identity of other players that you know from previous deals, and point chips. You may agree to trade other things, but only deals involving the aforementioned objects are binding.
+
+If you think you know who your teammate is, you may make a guess by clicking on them and selecting “guess teammate”. Nothing will happen immediately, but if that player ever guesses you as well, you will find out whether or not you are correct. Correct guesses are worth points, but guessing earlier is worth more points. The points awarded for a correct guess will depend on player count, but the team that guesses correctly first will always get more points than the team correctly guessing second, and so on. If a player guesses incorrectly, there is no penalty at the time, but when a team guesses correctly, if either player has made an incorrect guess in the past, that team is awarded the second highest remaining point award on the list, not the first. If either player has guessed incorrectly twice, that team gets the third highest points on the list, and so on.
+
+When the timer is finished move into end game scoring.
+
+        Game end:
+As soon as the timer is up, the game ends. Before scoring begins the assassin gets to guess three players’ teams. If they are correct on all three, the game immediately ends with the assassin as the winner. If the assassin is incorrect about at least one person’s team, proceed to final scoring. Each team gets a score. Every point chip that you have been given by another player is worth one point for your team, unless that point chip was given to you by your teammate, in which case it is worth nothing. Any of of your starting chips left over at the end of the game also do not score points. Each team then adds the correct guess points they have (if any) to their score. The team with the highest score wins. In the case of a tie, the team with the most correct guess points wins.
+
+        Observer:
+If you are playing with an even number of players, one player gets the identity of the observer. If the assassin is incorrect about their guess, the observer gets an opportunity to guess which team will have the highest score. If the observer is correct, they win instead of that team. To help the observer achieve this goal, they have the power to view all private messages in the game. Additionally, the assassin cannot guess that someone has the observer role. To fight the observer, players can guess who they think is the observer during the game. If both members of a team have the observer correctly selected at game end, then the observer is not allowed to guess their team as the winning team.
+
+        Quests:
+When I originally play tested this game in physical form a while back, it was relatively fun, but rounds would become quite formulaic. I have made a few tweaks to try to make this less of the case in the digital version. But if this is not enough, I propose the introduction of quests. At the start of the game each player gets a random quest. Quests give an amount of points to your team if they are completed. Quests can also be traded during deals. Here are some examples of potential quests:
+
+Find a member of team X (this quest won’t be given to a member of team X, but can be traded with them)
+
+Don’t show your card to any player who isn’t your teammate
+
+Give out all 5 of your point chips
+
+I Believe that quests could make deals more interesting by adding a third tradable resource(I wanted time to act a bit like a third resource, but it can’t exactly be traded). I also believe that they could add some fun variability to the game, preventing it from becoming to formulaic. But they could backfire and end up adding too much complication and luck into the game.
+
+
